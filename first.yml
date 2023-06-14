@@ -1,0 +1,22 @@
+name : "sam"
+age : 40
+server : 
+  name : "Ubuntu"
+  capacity : 200 GB
+
+social media : 
+  - linkedin-https://www.linkedin.com/in/samagarwalpmp/
+  - github-github.com/sama863nz
+
+comments : |
+  this is only to test the above lines
+  one of the way to comment
+
+all_server_details:
+  - server 1:
+    name : "EC2"
+    capacity : 100 GB
+  - server 2:
+    name : "fargate"
+    capacity : 20 GB
+    
